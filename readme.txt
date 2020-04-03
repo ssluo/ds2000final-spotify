@@ -1,0 +1,1 @@
+All code for the project is contained in spotify_functions.py. We have also written wrapper functions to make the UI cleaner. To run the code, please open the Jupyter notebook and run cells as instructed.
